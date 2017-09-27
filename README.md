@@ -7,8 +7,7 @@ A handful of bash scripts written to automate the entire process of setting up o
 1. Open Terminal
 2. Go to home directory by typing the following command: cd ~/
 3. Type: git clone https://github.com/swetanjal/IIITH-VPN.git
-4. Type: cd IIITH-VPN/
-5. Type: sudo bash iiit_vpn_setup.sh
+4. Type: sudo bash IIITH-VPN/iiit_vpn_setup.sh
 # II. CONNECTING AND DISCONNECTING TO IIITH VPN
 1. Open Terminal
 2. Go to home directory by typing the following command: cd ~/
