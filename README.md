@@ -7,7 +7,7 @@ A handful of bash scripts written to automate the entire process of setting up o
 1. Open Terminal
 2. Go to home directory by typing the following command: cd /~
 3. Type the following commands and follow on-screen instructions:
-    a. 
+    a. \n
     b.
 # II. CONNECTING AND DISCONNECTING TO IIITH VPN
 1. Open Terminal
