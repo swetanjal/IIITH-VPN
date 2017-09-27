@@ -6,7 +6,7 @@ A handful of bash scripts written to automate the entire process of setting up o
 # I. SETTING UP OPENVPN
 1. Open Terminal
 2. Go to home directory by typing the following command: cd /~
-3. Type: # wget https://github.com/swetanjal/IIITH-VPN/blob/master/vpn.sh https://github.com/swetanjal/IIITH-VPN/blob/master/iiit_vpn_setup.sh https://github.com/swetanjal/IIITH-VPN/blob/master/vpn_exit.sh https://github.com/swetanjal/IIITH-VPN/blob/master/uninstall.sh
+3. Type: wget https://github.com/swetanjal/IIITH-VPN/blob/master/vpn.sh https://github.com/swetanjal/IIITH-VPN/blob/master/iiit_vpn_setup.sh https://github.com/swetanjal/IIITH-VPN/blob/master/vpn_exit.sh https://github.com/swetanjal/IIITH-VPN/blob/master/uninstall.sh
 4. Type: sudo bash iiit_vpn_setup.sh
 # II. CONNECTING AND DISCONNECTING TO IIITH VPN
 1. Open Terminal
