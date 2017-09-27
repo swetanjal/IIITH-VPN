@@ -6,7 +6,7 @@ A handful of bash scripts written to automate the entire process of setting up o
 # I. SETTING UP OPENVPN
 1. Open Terminal
 2. Go to home directory by typing the following command: cd /~
-3. Type the following commands and follow on-screen instructions: < br />
+3. Type the following commands and follow on-screen instructions:__
     a.                                                            < br />
     b.                                                            < br />
 # II. CONNECTING AND DISCONNECTING TO IIITH VPN
