@@ -22,3 +22,4 @@ A handful of bash scripts written to automate the entire process of setting up o
 3. Type: sudo bash IIITH-VPN/uninstall.sh
 4. If you want to remove openvpn as well, type: sudo update-rc.d -f openvpn  remove
 5. Finally type: rm -rf IIITH-VPN/
+
