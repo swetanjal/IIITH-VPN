@@ -4,7 +4,7 @@ if [ -f /etc/openvpn/ca.crt ]
 	echo "Connecting to IIITH VPN..."
 	echo "Press any key to continue."
 	read random
-	sudo bash ./IIITH-VPN/vpn.sh && sudo bash ./IIITH/vpn_exit.sh
+	sudo bash ./IIITH-VPN/vpn.sh && sudo bash ./IIITH-VPN/vpn_exit.sh
 	echo "You have successfully disconnected."
 
 else
