@@ -19,7 +19,7 @@ else
 	read pass
 	wget --user $user --password $pass https://vpn.iiit.ac.in/secure/all.iiit.ac.in.key
 	wget https://vpn.iiit.ac.in/linux_client.conf
-	
+	sudo update-rc.d openvpn disable
 	if [ -d /etc/openvpn/ ]
 		then
 		echo "OK"
