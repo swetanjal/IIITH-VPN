@@ -10,7 +10,7 @@ if [ -f /etc/openvpn/ca.crt ]
 else
 	echo "This will setup openvpn for you. Press any key to continue."
 	read random
-	sudo apt install openvpn easy-rsa
+	sudo apt install openvpn
 	wget https://vpn.iiit.ac.in/ca.crt
 	wget https://vpn.iiit.ac.in/all.iiit.ac.in.crt
 	echo "Please enter your IIITH email address."
